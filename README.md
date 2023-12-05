@@ -18,5 +18,5 @@ This project involves developing a dashboard using real time data to monitor emp
 
 ### Data visualization in Power BI desktop :
 
-<img width="596" alt="dashboard " src="https://github.com/sowmyah22/Sales_Insights_Tableau_Project/assets/28885876/a676885e-c03c-4410-94ab-d76c9dbc2b35">
+<img width="960" alt="dashboard " src="https://github.com/sowmyah22/Sales_Insights_Tableau_Project/assets/28885876/a676885e-c03c-4410-94ab-d76c9dbc2b35">
 
